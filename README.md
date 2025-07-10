@@ -63,11 +63,3 @@ streamlit run app.py
 
 ---
 
-## 📬 Connect with Me
-If you like this project or want to collaborate, feel free to reach out!
-
-📧 Email: kicha2003e@gmail.com
-
-💼 LinkedIn: [Join my network](www.linkedin.com/in/kishore-thedeveloper)
-
-🐙 GitHub: [Profile Link](https://github.com/Kishore003E)
